@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="Time Tracker Jagan" max_length="40" name="x_298287_timetrack_time_tracker_jagan" type="collection">
+        <element label="Approval Date" max_length="40" name="approval_date" type="glide_date"/>
+        <element label="Name" max_length="32" name="name" reference="sys_user" type="reference"/>
+        <element label="Support Task Number" max_length="40" name="support_task_number" type="string"/>
+        <element label="Time in Hours" max_length="20" name="time_in_hours" type="decimal"/>
+        <element label="Work date" max_length="40" name="work_date" type="glide_date"/>
+    </element>
+</database>

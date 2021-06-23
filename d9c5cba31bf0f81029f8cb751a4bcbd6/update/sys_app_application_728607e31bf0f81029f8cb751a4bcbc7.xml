@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category display_value="Custom Applications">e0355b31ef303000a61d5a3615c0fb78</category>
+        <description/>
+        <device_type>browser</device_type>
+        <hint/>
+        <name>Jagan Time Tracker</name>
+        <order>100</order>
+        <roles>x_298287_timetrack.time_tracker_jagan_user</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>jagan.arrabelly@snc</sys_created_by>
+        <sys_created_on>2021-06-23 17:45:12</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>728607e31bf0f81029f8cb751a4bcbc7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Jagan Time Tracker</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="TimeTrack_Jagan" source="x_298287_timetrack">d9c5cba31bf0f81029f8cb751a4bcbd6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TimeTrack_Jagan">d9c5cba31bf0f81029f8cb751a4bcbd6</sys_scope>
+        <sys_update_name>sys_app_application_728607e31bf0f81029f8cb751a4bcbc7</sys_update_name>
+        <sys_updated_by>jagan.arrabelly@snc</sys_updated_by>
+        <sys_updated_on>2021-06-23 17:45:12</sys_updated_on>
+        <title>Jagan Time Tracker</title>
+        <view_name/>
+    </sys_app_application>
+</record_update>
