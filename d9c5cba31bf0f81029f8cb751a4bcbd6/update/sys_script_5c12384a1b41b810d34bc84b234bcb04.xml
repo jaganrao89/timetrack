@@ -30,8 +30,7 @@
         <script><![CDATA[var gr = new GlideRecord('x_298287_timetrack_time_tracker_jagan');
 gr.get(current.sysapproval);
 if(gr.next())
-	{
-		
+	{	
 gr.reason = current.comments;
 
 gr.update();
@@ -42,7 +41,7 @@ gr.update();
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>5c12384a1b41b810d34bc84b234bcb04</sys_id>
-        <sys_mod_count>9</sys_mod_count>
+        <sys_mod_count>10</sys_mod_count>
         <sys_name>AfterTimeSheerReject</sys_name>
         <sys_overrides/>
         <sys_package display_value="TimeTrack_Jagan" source="x_298287_timetrack">d9c5cba31bf0f81029f8cb751a4bcbd6</sys_package>
@@ -50,9 +49,9 @@ gr.update();
         <sys_scope display_value="TimeTrack_Jagan">d9c5cba31bf0f81029f8cb751a4bcbd6</sys_scope>
         <sys_update_name>sys_script_5c12384a1b41b810d34bc84b234bcb04</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2021-07-07 00:10:17</sys_updated_on>
+        <sys_updated_on>2021-07-07 00:16:34</sys_updated_on>
         <template/>
-        <when>after</when>
+        <when>before</when>
     </sys_script>
     <sys_translated_text action="delete_multiple" query="documentkey=5c12384a1b41b810d34bc84b234bcb04"/>
 </record_update>
